@@ -68,33 +68,29 @@ while (!success()) {
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <i>Technologies I use to build modern, full-stack web applications.</i>
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript" />
 </p>
 
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="Java and JavaScript" />
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" alt="HTML, CSS, Bootstrap, React.js and Next.js" />
 </p>
 
-<h3 align="center">🎨 Frontend Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs&theme=dark" alt="HTML5, CSS3, Bootstrap, React.js and Next.js" />
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring Boot" />
 </p>
 
-<h3 align="center">⚙️ Backend Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Java and Spring Boot" />
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
-</p>
-
-<h3 align="center">🔧 Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code and Postman" />
+### 🔧 Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman" />
 </p>
 
 <p align="center">
