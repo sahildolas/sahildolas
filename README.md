@@ -13,13 +13,8 @@
 
 <h3 align="center">Java · Spring Boot · React.js · MySQL</h3>
 
-<!-- Professional Tagline -->
-<h2 align="center">
-  Java Full Stack Developer
-</h2>
-
 <p align="center">
-  Designing Responsive UIs • Developing REST APIs • Building Database-Driven Applications
+  Building responsive frontends, REST APIs, and database-driven applications.
 </p>
 
 <!-- Core Technologies -->
