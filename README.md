@@ -11,9 +11,17 @@
   />
 </p>
 
+
+<!-- Professional Developer Tagline -->
 <h3 align="center">
-  Building Modern Web Applications with Java, Spring Boot & React.js
+  🚀 Crafting Scalable Web Applications with Java, Spring Boot & React.js
 </h3>
+
+<p align="center">
+  <em>Building Responsive User Interfaces • Developing REST APIs • Integrating Databases</em>
+</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React.js+%7C+Spring+Boot+%7C+MySQL;Turning+Ideas+Into+Web+Applications;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
