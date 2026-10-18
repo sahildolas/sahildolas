@@ -14,12 +14,8 @@
 
 <!-- Professional Developer Tagline -->
 <h3 align="center">
-  🚀 Crafting Scalable Web Applications with Java, Spring Boot & React.js
+  Crafting Scalable Web Applications with Java, Spring Boot & React.js
 </h3>
-
-<p align="center">
-  <em>Building Responsive User Interfaces • Developing REST APIs • Integrating Databases</em>
-</p>
 
 
 
