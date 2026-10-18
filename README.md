@@ -68,29 +68,39 @@ while (!success()) {
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript" />
+<p align="center">
+  <i>Technologies I use to build modern, full-stack web applications.</i>
 </p>
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap and React" />
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="Java and JavaScript" />
 </p>
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Spring Boot and Node.js" />
+<h3 align="center">🎨 Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs&theme=dark" alt="HTML5, CSS3, Bootstrap, React.js and Next.js" />
 </p>
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+<h3 align="center">⚙️ Backend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Java and Spring Boot" />
 </p>
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" alt="Git, GitHub, VS Code, Eclipse and Postman" />
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
+</p>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code and Postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-2C5364?style=flat-square" alt="REST API Integration" />
+  <img src="https://img.shields.io/badge/CRUD-Operations-2C5364?style=flat-square" alt="CRUD Operations" />
+  <img src="https://img.shields.io/badge/Full--Stack-Development-2C5364?style=flat-square" alt="Full Stack Development" />
 </p>
 
 ---
