@@ -2,13 +2,43 @@
 
 <!-- ═══════════════ HEADER BANNER ═══════════════ -->
 
+<!-- Professional Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Sahil%20Dolas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Sahil Dolas - Java Full Stack Developer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12304A,100:007ACC&height=220&section=header&text=Sahil%20Dolas&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=57&descColor=58A6FF&animation=fadeIn"
+    width="100%"
+    alt="Sahil Dolas | Java Full Stack Developer"
+  />
 </p>
 
-<h3 align="center">
-  Building Modern Web Applications with Java, Spring Boot & React.js
-</h3>
+<!-- Professional Tagline -->
+<h2 align="center">
+  Java Full Stack Developer
+</h2>
+
+<p align="center">
+  Designing Responsive UIs • Developing REST APIs • Building Database-Driven Applications
+</p>
+
+<!-- Core Technologies -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<!-- Contact Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-dolas/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sahildolas001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<hr />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React.js+%7C+Spring+Boot+%7C+MySQL;Turning+Ideas+Into+Web+Applications;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
