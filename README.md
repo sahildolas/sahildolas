@@ -64,12 +64,12 @@ while (!success()) {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap and React" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, next.js and React.js" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Spring Boot and Node.js" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Spring Boot and Java" />
 </p>
 
 ### Databases
@@ -79,7 +79,7 @@ while (!success()) {
 
 ### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" alt="Git, GitHub, VS Code, Eclipse and Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" alt="Git, GitHub, VS Code, Postman" />
 </p>
 
 ---
