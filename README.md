@@ -30,7 +30,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Connect with Sahil on LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:sahildolas001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Email Sahil Dolas" />
