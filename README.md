@@ -13,9 +13,9 @@
 
 
 <!-- Professional Developer Tagline -->
-<h2 align="center">
- <em>Building Modern Web Applications with Java, Spring Boot & React.js</em>
-</h2>
+<h4 align="center">
+ <em>Crafting Scalable Web Applications with Java, Spring Boot & React.js</em>
+</h4>
 
 
 
