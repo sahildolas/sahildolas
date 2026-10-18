@@ -3,7 +3,7 @@
 <!-- ═══════════════ HEADER BANNER ═══════════════ -->
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5c98ba5c755107ca07062294/de046205-021b-4fc6-b25b-0bc2579df646/SahilDolasBanner_2026.png" width="100%" alt="Sahil Dolas — Java Full Stack Developer Terminal Artwork" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Sahil%20Dolas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Sahil Dolas - Java Full Stack Developer" />
 </p>
 
 <h3 align="center">
