@@ -93,11 +93,7 @@ while (!success()) {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-Integration-2C5364?style=flat-square" alt="REST API Integration" />
-  <img src="https://img.shields.io/badge/CRUD-Operations-2C5364?style=flat-square" alt="CRUD Operations" />
-  <img src="https://img.shields.io/badge/Full--Stack-Development-2C5364?style=flat-square" alt="Full Stack Development" />
-</p>
+
 
 ---
 
