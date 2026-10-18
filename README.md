@@ -1,25 +1,150 @@
-<h1 align="center">Hi 👋, I'm SAHIL DOLAS</h1>
-<h3 align="center">A Passionate Java Full Stack Developer From India</h3>
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
 
-if (success()) {
-    celebrate();
-}
-
-while (!success()) {
-    tryAgain();
-    beAwesome();
-}
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-dolas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-dolas/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sahil%20Dolas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Sahil Dolas - Java Full Stack Developer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="center">
+  Building Modern Web Applications with Java, Spring Boot & React.js
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahildolas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahildolas" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React.js+%7C+Spring+Boot+%7C+MySQL;Turning+Ideas+Into+Web+Applications;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahildolas&show_icons=true&locale=en&theme=tokyonight" alt="sahildolas" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-dolas/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:sahildolas001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sahil" />
+  </a>
+  <a href="https://github.com/sahildolas">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildolas&theme=tokyonight" alt="sahildolas" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahildolas&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Sahil Dolas**, an aspiring Java Full Stack Developer from India who enjoys building responsive, user-friendly, and database-driven web applications.
+
+- 💻 Interested in full-stack web development and software engineering.
+- ☕ Working with Java, Spring Boot, and RESTful APIs.
+- 🎨 Building responsive user interfaces using React.js, JavaScript, HTML, and CSS.
+- 🗄️ Exploring database design, SQL, and MySQL integration.
+- 🚀 Building practical projects to strengthen my development skills.
+- 📚 Continuously learning, improving problem-solving skills, and exploring new technologies.
+- 🤝 Open to opportunities in Java Full Stack and React Development.
+
+### 💡 My Developer Mindset
+
+```java
+while (!success()) {
+    learn();
+    build();
+    improve();
+    tryAgain();
+}
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap and React" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Spring Boot and Node.js" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" alt="Git, GitHub, VS Code, Eclipse and Postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 👓 Lensify — Full Stack Application
+**Tech Stack:** React.js · Java · Spring Boot · MySQL
+
+A full-stack eyewear application focused on product management, frontend-backend integration, and database-driven functionality.
+
+### ☕ Coffee Shop Web Application
+**Tech Stack:** React.js · JavaScript · HTML · CSS · Bootstrap
+
+A coffee shop interface featuring product categories, search functionality, shopping cart interactions, and a user-friendly browsing experience.
+
+### 🏨 Hotel Management System — In Progress
+**Tech Stack:** React.js · Java · Spring Boot · MySQL
+
+A full-stack hotel management application planned around authentication, user and admin modules, and hotel booking functionality.
+
+<!-- Add verified repository links to the projects above when available. -->
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahildolas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sahil's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildolas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahildolas&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahildolas&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  I'm always interested in learning, collaborating on projects, and connecting with fellow developers.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-dolas/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Dolas-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sahildolas001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sahildolas001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! Keep learning, keep building, and keep growing.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer banner" />
+</p>
