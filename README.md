@@ -6,13 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Sahil%20Dolas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Sahil Dolas - Java Full Stack Developer" />
 </p>
 
-<h3 align="center">
-  Building Modern Web Applications with Java, Spring Boot & React.js
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React.js+%7C+Spring+Boot+%7C+MySQL;Turning+Ideas+Into+Web+Applications;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
-</p>
 
 <h3 align="center">
   Building Modern Web Applications with Java, Spring Boot & React.js
