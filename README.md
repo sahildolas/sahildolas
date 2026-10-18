@@ -4,7 +4,11 @@
 
 <!-- Professional Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Sahil%20Dolas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Sahil Dolas - Java Full Stack Developer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12304A,100:007ACC&height=220&section=header&text=Sahil%20Dolas&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=57&descColor=58A6FF&animation=fadeIn"
+    width="100%"
+    alt="Sahil Dolas | Java Full Stack Developer"
+  />
 </p>
 
 <h3 align="center">Java · Spring Boot · React.js · MySQL</h3>
