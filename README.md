@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm SAHIL DOLAS</h1>
 <h3 align="center">A Passionate Java Full Stack Developer From India</h3>
 
-- 🔭 I’m currently working on **Front-end based project**
+if (success()) {
+    celebrate();
+}
 
-- 🌱 I’m currently learning **node.js,next.js**
-
-- 📫 How to reach me **sahildolas001@gmail.com**
+while (!success()) {
+    tryAgain();
+    beAwesome();
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
