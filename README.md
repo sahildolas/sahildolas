@@ -11,26 +11,20 @@
   />
 </p>
 
-<h3 align="center">
-  Building Modern Web Applications with Java, Spring Boot & React.js
-</h3>
+<h3 align="center">Java · Spring Boot · React.js · MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React.js+%7C+Spring+Boot+%7C+MySQL;Turning+Ideas+Into+Web+Applications;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
+  Building responsive frontends, REST APIs, and database-driven applications.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-dolas/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:sahildolas001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sahil" />
-  </a>
-  <a href="https://github.com/sahildolas">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 <br />
 
 
