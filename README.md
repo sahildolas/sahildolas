@@ -13,9 +13,9 @@
 
 
 <!-- Professional Developer Tagline -->
-<h3 align="center">
- <em>Building Responsive User Interfaces • Developing REST APIs • Integrating Databases</em>
-</h3>
+<h2 align="center">
+ <em>Building Modern Web Applications with Java, Spring Boot & React.js</em>
+</h2>
 
 
 
