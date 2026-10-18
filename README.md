@@ -12,22 +12,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React.js+%7C+Spring+Boot+%7C+MySQL;Turning+Ideas+Into+Web+Applications;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
 </p>
 
-<p align="center">
+<!-- Social Links -->
+<div align="center">
+
   <a href="https://www.linkedin.com/in/sahil-dolas/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="Connect with Sahil on LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:sahildolas001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sahil" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Email Sahil Dolas" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/sahildolas">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+         alt="View Sahil's GitHub profile" />
   </a>
-</p>
 
+</div>
+
+<br />
+
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahildolas&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sahildolas&label=PROFILE%20VIEWS&color=0A66C2&style=flat-square"
+       alt="GitHub profile views" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
