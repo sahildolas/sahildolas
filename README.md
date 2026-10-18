@@ -14,7 +14,7 @@
 
 <!-- Professional Developer Tagline -->
 <h4 align="center">
- <em>Crafting Scalable Web Applications with Java, Spring Boot & React.js</em>
+ <b>Crafting Scalable Web Applications with Java, Spring Boot & React.js</b>
 </h4>
 
 
